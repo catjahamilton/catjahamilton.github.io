@@ -1,0 +1,6 @@
+/* Changing font */
+
+/*h1, .h1 { */
+*{
+  font-family: 'Prata', cursive;
+}
