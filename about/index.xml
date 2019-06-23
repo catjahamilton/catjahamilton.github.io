@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grid Side</title>
-    <link>https://www.catjahamilton.github.io/about/</link>
+    <link>catjahamilton.github.io/about/</link>
     <description>Recent content on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Catja Hamilton</copyright>
     
-	<atom:link href="https://www.catjahamilton.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="catjahamilton.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://www.catjahamilton.github.io/about/about/</link>
+      <link>catjahamilton.github.io/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.catjahamilton.github.io/about/about/</guid>
+      <guid>catjahamilton.github.io/about/about/</guid>
       <description>Catja first became involved in Lighting Design while studying English at Cambridge University, where she was the Lighting Designer and Technician for over 20 shows. These included ‘Lagoon’: The Cambridge Footlights International Tour Show 2016, which toured the UK, US, and Grand Cayman; the Cambridge European Theatre Group’s production of ‘Hamlet’, which toured to Switzerland and Belgium; a two-week run of ‘West Side Story’ at the ADC Theatre; and five productions at the Edinburgh Fringe Festival.</description>
     </item>
     
