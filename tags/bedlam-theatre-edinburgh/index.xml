@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bedlam Theatre Edinburgh on Grid Side</title>
-    <link>https://catjahamilton.github.io/tags/bedlam-theatre-edinburgh/</link>
+    <link>catjahamilton.github.io/tags/bedlam-theatre-edinburgh/</link>
     <description>Recent content in Bedlam Theatre Edinburgh on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Catja Hamilton</copyright>
     
-	<atom:link href="https://catjahamilton.github.io/tags/bedlam-theatre-edinburgh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="catjahamilton.github.io/tags/bedlam-theatre-edinburgh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kursk</title>
-      <link>https://catjahamilton.github.io/portfolio/kursk/</link>
+      <link>catjahamilton.github.io/portfolio/kursk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://catjahamilton.github.io/portfolio/kursk/</guid>
+      <guid>catjahamilton.github.io/portfolio/kursk/</guid>
       <description></description>
     </item>
     
