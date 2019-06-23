@@ -2,93 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Grid Side</title>
-    <link>https://catjahamilton.github.io/portfolio/</link>
+    <link>https://www.catjahamilton.github.io/portfolio/</link>
     <description>Recent content in Portfolio on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Catja Hamilton</copyright>
     
-	<atom:link href="https://catjahamilton.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.catjahamilton.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Midsummer Night&#39;s Dream</title>
-      <link>https://catjahamilton.github.io/portfolio/midsummer/</link>
+      <title>A Girl, Standing</title>
+      <link>https://www.catjahamilton.github.io/portfolio/girl-standing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://catjahamilton.github.io/portfolio/midsummer/</guid>
+      <guid>https://www.catjahamilton.github.io/portfolio/girl-standing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Midsummer Night&#39;s Dream</title>
+      <link>https://www.catjahamilton.github.io/portfolio/midsummer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.catjahamilton.github.io/portfolio/midsummer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attempts on Her Life</title>
-      <link>https://catjahamilton.github.io/portfolio/attempts/</link>
+      <link>https://www.catjahamilton.github.io/portfolio/attempts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://catjahamilton.github.io/portfolio/attempts/</guid>
+      <guid>https://www.catjahamilton.github.io/portfolio/attempts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eris</title>
-      <link>https://catjahamilton.github.io/portfolio/eris/</link>
+      <link>https://www.catjahamilton.github.io/portfolio/eris/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://catjahamilton.github.io/portfolio/eris/</guid>
+      <guid>https://www.catjahamilton.github.io/portfolio/eris/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hamlet</title>
-      <link>https://catjahamilton.github.io/portfolio/hamlet/</link>
+      <link>https://www.catjahamilton.github.io/portfolio/hamlet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://catjahamilton.github.io/portfolio/hamlet/</guid>
+      <guid>https://www.catjahamilton.github.io/portfolio/hamlet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kursk</title>
-      <link>https://catjahamilton.github.io/portfolio/kursk/</link>
+      <link>https://www.catjahamilton.github.io/portfolio/kursk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://catjahamilton.github.io/portfolio/kursk/</guid>
+      <guid>https://www.catjahamilton.github.io/portfolio/kursk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Othello</title>
-      <link>https://catjahamilton.github.io/portfolio/othello/</link>
+      <link>https://www.catjahamilton.github.io/portfolio/othello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://catjahamilton.github.io/portfolio/othello/</guid>
+      <guid>https://www.catjahamilton.github.io/portfolio/othello/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tribes</title>
-      <link>https://catjahamilton.github.io/portfolio/tribes/</link>
+      <link>https://www.catjahamilton.github.io/portfolio/tribes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://catjahamilton.github.io/portfolio/tribes/</guid>
+      <guid>https://www.catjahamilton.github.io/portfolio/tribes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>West Side Story</title>
-      <link>https://catjahamilton.github.io/portfolio/west-side/</link>
+      <link>https://www.catjahamilton.github.io/portfolio/west-side/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://catjahamilton.github.io/portfolio/west-side/</guid>
+      <guid>https://www.catjahamilton.github.io/portfolio/west-side/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wife</title>
-      <link>https://catjahamilton.github.io/portfolio/wife/</link>
+      <link>https://www.catjahamilton.github.io/portfolio/wife/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://catjahamilton.github.io/portfolio/wife/</guid>
+      <guid>https://www.catjahamilton.github.io/portfolio/wife/</guid>
       <description></description>
     </item>
     

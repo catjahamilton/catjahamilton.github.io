@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grid Side</title>
-    <link>https://catjahamilton.github.io/credits/</link>
+    <link>https://www.catjahamilton.github.io/credits/</link>
     <description>Recent content on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Catja Hamilton</copyright>
     
-	<atom:link href="https://catjahamilton.github.io/credits/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.catjahamilton.github.io/credits/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Credits</title>
-      <link>https://catjahamilton.github.io/credits/credits/</link>
+      <link>https://www.catjahamilton.github.io/credits/credits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://catjahamilton.github.io/credits/credits/</guid>
+      <guid>https://www.catjahamilton.github.io/credits/credits/</guid>
       <description>Previous designs include Click on a production&amp;rsquo;s title to be taken to the appropriate gallery page
-Lighting designer Sep-18 | ERIS | Airlock Theatre | dir. Robbie Taylor Hunt | Bunker Theatre, London Mar-18 | Rabbit | Protocol Theatre | dir. Robbie Taylor Hunt | Theatre N16, London Oct-17; Apr-17 | Wife | Airlock Theatre | dir. Robbie Taylor Hunt | Jermyn Street Theatre, London; OSO Arts Centre, Barnes Feb-17 | Hot Gay Time Machine | Eggbox Comedy and CUMTS | dir.</description>
+Lighting designer May-19 | A Girl, Standing | dir. Liam Blain | Theatre 503, London Sep-18 | ERIS | Airlock Theatre | dir. Robbie Taylor Hunt | Bunker Theatre, London Mar-18 | Rabbit | Protocol Theatre | dir. Robbie Taylor Hunt | Theatre N16, London Oct-17; Apr-17 | Wife | Airlock Theatre | dir.</description>
     </item>
     
   </channel>
